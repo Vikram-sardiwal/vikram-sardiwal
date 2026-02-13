@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Vikram sardiwal
 
-<!--
-**Vikram-sardiwal/vikram-sardiwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer (MERN Stack)  
+💻 Passionate about Open Source & Web Development  
+🌍 Looking for opportunities in foreign startups  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- MySQL
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+🔹 Code Contributions UI  
+🔹 Boutique Sales Management System  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikram-sardiwal&show_icons=true&theme=radical)
+
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (https://www.linkedin.com/in/vikram-sardiwal/)
+- Email: (vikramsardiwal22@gmail.com)
