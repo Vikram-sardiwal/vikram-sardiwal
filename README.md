@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikram-sardiwal&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikram-sardiwal&show_icons=true&theme=radical)
 
 
 ---
