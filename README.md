@@ -25,14 +25,6 @@
 🔹 Boutique Sales Management System  
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikram-sardiwal&show_icons=true&theme=radical)
-
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: (https://www.linkedin.com/in/vikram-sardiwal/)
