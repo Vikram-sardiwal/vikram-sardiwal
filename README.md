@@ -7,7 +7,8 @@
 ---
 
 ## 🛠 Tech Stack
-
+- C
+- Python
 - HTML
 - CSS
 - JavaScript
