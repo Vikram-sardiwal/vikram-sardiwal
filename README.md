@@ -34,9 +34,5 @@
 
 - ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikram-sardiwal&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-sardiwal&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Vikram-sardiwal&theme=radical)
 
