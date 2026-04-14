@@ -5,7 +5,6 @@
 🌍 Looking for opportunities in foreign startups  
 
 ---
-
 ## 🛠 Tech Stack
 - C
 - Python
@@ -25,6 +24,9 @@
 🔹 Code Contributions UI  
 🔹 Boutique Sales Management System  
 🔹Tic Tac Tao
+🔹calculator
+🔹Analog Watch
+
 
 ---
 ## 📫 Connect With Me
