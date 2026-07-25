@@ -13,9 +13,12 @@
 - JavaScript
 - React
 - Node.js
+- Express
 - MongoDB
 - MySQL
+- Tailwind 
 - Git & GitHub
+  
 
 ---
 
