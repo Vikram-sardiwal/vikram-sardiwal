@@ -29,6 +29,7 @@
 🔹Tic Tac Tao
 🔹calculator
 🔹Analog Watch
+🔹Target-inspired e-commerce application
 
 
 ---
