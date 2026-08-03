@@ -16,7 +16,7 @@
 - Express
 - MongoDB
 - MySQL
-- Tailwind 
+- tailwindcss
 - Git & GitHub
   
 
